@@ -1,0 +1,28 @@
+{
+  "name": "lirl",
+  "version": "1.0.0",
+  "description": "Twitter API and Spotify API Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalehoux/lirl.git"
+  },
+  "keywords": [
+    "Twitter"
+  ],
+  "author": "Jacob Lehoux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalehoux/lirl/issues"
+  },
+  "homepage": "https://github.com/jalehoux/lirl#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0"
+  }
+}
